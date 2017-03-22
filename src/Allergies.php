@@ -37,8 +37,5 @@
       }
       return implode(', ', $allergies_array);
     }
-
-
-
   }
 ?>
